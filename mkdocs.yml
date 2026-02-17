@@ -36,8 +36,8 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  logo: assets/images/defender-logo.png
-  favicon: assets/images/favicon.ico
+  logo: assets/images/defender-logo.svg
+  favicon: assets/images/favicon.svg
   language: en
 
 plugins:

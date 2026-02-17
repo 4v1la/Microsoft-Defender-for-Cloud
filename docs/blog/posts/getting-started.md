@@ -14,7 +14,7 @@ tags:
 
 # Getting Started with Microsoft Defender for Cloud
 
-![Defender for Cloud](../../assets/images/defender-logo.png){: .defender-logo }
+![Defender for Cloud](../../assets/images/defender-logo.svg){: .defender-logo }
 
 Welcome to our comprehensive guide on getting started with Microsoft Defender for Cloud! Whether you're new to cloud security or looking to enhance your existing security posture, this post will help you understand the fundamentals and get up and running quickly.
 

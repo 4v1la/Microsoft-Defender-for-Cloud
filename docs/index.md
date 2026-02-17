@@ -1,7 +1,7 @@
 # Welcome to Microsoft Defender for Cloud
 
 <div class="hero-section">
-  <img src="assets/images/defender-logo.png" alt="Microsoft Defender for Cloud Logo" class="defender-logo">
+  <img src="assets/images/defender-logo.svg" alt="Microsoft Defender for Cloud Logo" class="defender-logo">
   <h1>Comprehensive Cloud Security</h1>
   <p>Protect your multi-cloud and hybrid environments with advanced threat protection, security posture management, and compliance tools.</p>
 </div>

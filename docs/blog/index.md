@@ -1,7 +1,7 @@
 # Blog
 
 <div class="hero-section">
-  <img src="../assets/images/defender-logo.png" alt="Microsoft Defender for Cloud Logo" class="defender-logo">
+  <img src="../assets/images/defender-logo.svg" alt="Microsoft Defender for Cloud Logo" class="defender-logo">
   <h1>Security Insights & Updates</h1>
   <p>Stay informed with the latest security best practices, feature updates, and expert insights from the Microsoft Defender for Cloud team.</p>
 </div>

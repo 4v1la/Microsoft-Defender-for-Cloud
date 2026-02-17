@@ -13,7 +13,7 @@ tags:
 
 # Top 10 Security Recommendations for Cloud Environments
 
-![Defender for Cloud](../../assets/images/defender-logo.png){: .defender-logo }
+![Defender for Cloud](../../assets/images/defender-logo.svg){: .defender-logo }
 
 Securing your cloud infrastructure can seem overwhelming, but focusing on these top 10 security recommendations will help you build a strong foundation for cloud security.
 

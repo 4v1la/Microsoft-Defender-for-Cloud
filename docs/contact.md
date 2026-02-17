@@ -1,7 +1,7 @@
 # Contact Us
 
 <div class="hero-section">
-  <img src="assets/images/defender-logo.png" alt="Microsoft Defender for Cloud Logo" class="defender-logo">
+  <img src="assets/images/defender-logo.svg" alt="Microsoft Defender for Cloud Logo" class="defender-logo">
   <h1>Get in Touch</h1>
   <p>We're here to help you secure your cloud infrastructure. Reach out to our team for questions, support, or feedback.</p>
 </div>

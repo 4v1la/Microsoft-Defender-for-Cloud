@@ -14,7 +14,7 @@ tags:
 
 # Securing Multi-Cloud Environments with Defender for Cloud
 
-![Defender for Cloud](../../assets/images/defender-logo.png){: .defender-logo }
+![Defender for Cloud](../../assets/images/defender-logo.svg){: .defender-logo }
 
 In today's cloud landscape, many organizations operate across multiple cloud providers. Learn how Microsoft Defender for Cloud helps you secure AWS, GCP, and Azure environments from a single platform.
 
