@@ -59,8 +59,8 @@ Microsoft-Defender-for-Cloud/
 ├── docs/
 │   ├── assets/
 │   │   ├── images/
-│   │   │   ├── defender-logo.png      # Defender logo
-│   │   │   └── favicon.ico            # Site favicon
+│   │   │   ├── defender-logo.svg      # Defender logo
+│   │   │   └── favicon.svg            # Site favicon
 │   │   └── stylesheets/
 │   │       └── custom.css             # Custom gradient styling
 │   ├── blog/
@@ -100,7 +100,7 @@ tags:
 
 # Your Post Title
 
-![Defender for Cloud](../../assets/images/defender-logo.png){: .defender-logo }
+![Defender for Cloud](../../assets/images/defender-logo.svg){: .defender-logo }
 
 Your introduction text here.
 
@@ -123,7 +123,7 @@ Edit `docs/assets/stylesheets/custom.css` to modify:
 
 ### Logo
 
-Replace `docs/assets/images/defender-logo.png` with your custom logo.
+Replace `docs/assets/images/defender-logo.svg` with your custom logo.
 
 ### Navigation
 
