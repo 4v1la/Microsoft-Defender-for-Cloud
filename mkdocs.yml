@@ -1,0 +1,86 @@
+site_name: Microsoft Defender for Cloud
+site_description: Microsoft Defender for Cloud - Comprehensive security management
+site_author: Microsoft Defender for Cloud Team
+site_url: https://4v1la.github.io/Microsoft-Defender-for-Cloud/
+
+theme:
+  name: material
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: cyan
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: cyan
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.tabs.link
+  font:
+    text: Roboto
+    code: Roboto Mono
+  logo: assets/images/defender-logo.svg
+  favicon: assets/images/favicon.svg
+  language: en
+
+plugins:
+  - search
+  - blog:
+      blog_dir: blog
+      post_date_format: full
+      post_url_format: "{slug}"
+      archive: true
+      categories: true
+      authors_profiles: true
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      permalink: true
+
+extra_css:
+  - assets/stylesheets/custom.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/4v1la/Microsoft-Defender-for-Cloud
+  generator: false
+
+copyright: Copyright &copy; 2024 Microsoft Defender for Cloud
+
+nav:
+  - Home: index.md
+  - Blog: 
+      - blog/index.md
+  - Contact: contact.md
